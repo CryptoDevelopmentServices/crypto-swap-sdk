@@ -17,7 +17,7 @@ git clone https://github.com/CryptoDevelopmentServices/crypto-swap-sdk.git
 Move into the cryptoswap-sdk working directory
 
 ```sh
-cd cryptoswap-sdk/
+cd crypto-swap-sdk/
 ```
 
 Install dependencies
